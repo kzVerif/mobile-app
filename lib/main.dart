@@ -182,7 +182,7 @@ class ResumeApp extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Text(
-                      "ผลงานที่เคยทำ",
+                      "ประวัติการศึกษา",
                       style: TextStyle(
                         fontSize: 18,
                         fontWeight: FontWeight.bold,
@@ -191,10 +191,9 @@ class ResumeApp extends StatelessWidget {
                     ),
                     SizedBox(height: 12),
                     Text(
-                      "Line Noti Api | แจ้งเตือนเงินเข้าออกของบัญชี \n"
-                      "Discord Bot | บอทร้านค้า PubgStatus Bot \n"
-                      "Webhook Truewallet API | เว็ปฮุคเงินเข้าออก Truewallet \n"
-                      "Landing Page | หน้าเว็บเพจร้านค้าอย่างง่าย",
+                      "ประถม โรงเรียนมารีย์วิทย์บ่อวิน 2560\n"
+                      "มัธยมต้น  โรงเรียนบุญวาทย์วิทยาลัย 2563 \n"
+                      "มัธยมปลาย โรงเรียนบุญวาทย์วิทยาลัย 2566",
                       style: TextStyle(color: Colors.white),
                     ),
                   ],
